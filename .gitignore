@@ -1,0 +1,11 @@
+_sequence*
+data*
+video*
+data-*
+**/*_lastrun.py
+__pycache__
+
+# ignore auto generated stimuli
+stimuli/vigilance_stimuli.csv
+stimuli/recognition_stimuli.csv
+
