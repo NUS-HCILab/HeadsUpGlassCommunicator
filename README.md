@@ -1,4 +1,4 @@
-# HeadsUpGlassCommunicator
+# HeadsUpGlassPythonAPI
 - communicate with [HeadsUpGlass](https://github.com/NUS-HCILab/HeadsUpGlass) app in Android Smartglasses via RESTful APIs
 - Smartglases API can be found at [API Spec](https://docs.google.com/document/d/1gdXW0ksE7j95bPe-f9ssFdg3P_WM-jFo96uOsl2pjFU/view#heading=h.9ct5pbje01b3) and [API](https://documenter.getpostman.com/view/7283357/UVJWqfZm)
 
